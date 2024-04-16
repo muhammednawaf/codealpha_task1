@@ -37,7 +37,7 @@ Contributions to this project are welcome! Feel free to fork the repository and 
 
 ## Demo
 
-You can view a live demo of the Personal Portfolio [here](https://muhammednawaf.github.io/personal-portfolio/).
+You can view a live demo of the Personal Portfolio [here](https://muhammednawaf.github.io/codealpha_task1/).
 
 ## Contact
 

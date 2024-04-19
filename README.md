@@ -20,7 +20,6 @@ To view the portfolio locally or make modifications, follow these steps:
 
 ## Features
 
-- Responsive design for various devices (desktop, tablet, mobile).
 - Sections for About Me, Projects, Skills, and Contact Information.
 - Interactive elements powered by JavaScript.
 
